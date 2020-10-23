@@ -1,2 +1,2 @@
 # Starbucks_Capstone_Project
-This project part of the Machine Learning Engineer Nanodegree Program.
+This project is a part of the Machine Learning Engineer Nanodegree Program.
